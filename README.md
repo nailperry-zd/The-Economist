@@ -1,6 +1,9 @@
 # The-Economist 
 
-The Economist 英文原版文字版及音频，[下载地址](https://vk.com/daniel_cheung)
+The Economist 英文原版文字版及音频下载地址
+
+[最新版本](https://vk.com/daniel_cheung)
+[历史版本](https://vk.com/open_digital_library)
 
 # 简介
 
