@@ -2,7 +2,7 @@
 
 The Economist 英文原版文字版及音频下载地址
 
-[历史版本](https://vk.com/open_digital_library)
+本仓库文件来源于俄罗斯公益团体[open_digital_library](https://vk.com/open_digital_library)
 
 # 简介
 
@@ -12,6 +12,8 @@ The Economist 英文原版文字版及音频下载地址
 
 # 文件格式
 
-EPUB, MOBI and PDF formats.
+每一期仅包含EPUB, MOBI 及 PDF 格式，若需要音频文件请前往[open_digital_library](https://vk.com/open_digital_library)自行获取。
 
-Epub and mobi format versions are also available on this repo for those who like reading magazines on smartphones, tablets or e-readers.
+# 更新时间
+
+正常情况下，周日~周一更新。如果晚于这个时间，应该是忘了^_^
