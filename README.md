@@ -3,6 +3,7 @@
 The Economist 英文原版文字版及音频下载地址
 
 本仓库文件来源于俄罗斯公益团体[open_digital_library](https://vk.com/open_digital_library)
+若该仓库无法顺利使用，可以转到这个仓库：https://getmyte.com/
 
 # 简介
 
