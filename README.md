@@ -1,6 +1,6 @@
 # 授人以鱼不如授人以渔
 
-The Economist 英文原版文字版文件来源于俄罗斯最大的社交网站[VK](https://vk.com)，关注站内账号[The Economist](https://vk.com/theeconomist_news)，这个账号每周上传经济学人电子版。新版的经济学人电子版超过25M，已无法直接上传github，大家可自行获取。
+The Economist 英文原版文字版文件来源于俄罗斯最大的社交网站[VK](https://vk.com)，关注站内账号[The Economist](https://vk.com/theeconomist_news)，这个账号每周上传经济学人电子版。新版的经济学人电子版超过25M，已无法直接上传github，所以改用夸克网盘，网盘地址未必可靠，有可能被禁用，大家最好直接访问俄罗斯网站[The Economist](https://vk.com/theeconomist_news)直接下载，国内可直接访问。
 
 # 简介
 
