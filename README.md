@@ -1,9 +1,6 @@
-# The-Economist 
+# 授人以鱼不如授人以渔
 
-The Economist 英文原版文字版
-
-本仓库文件来源于俄罗斯网站[vk](https://vk.com)，俄罗斯最大的社交网站，关注账号[The Economist](https://vk.com/theeconomist_news)，这个账号每周上传经济学人电子版。
-
+The Economist 英文原版文字版文件来源于俄罗斯最大的社交网站[VK](https://vk.com)，关注站内账号[The Economist](https://vk.com/theeconomist_news)，这个账号每周上传经济学人电子版。新版的经济学人电子版超过25M，已无法直接上传github，大家可自行获取。
 
 # 简介
 
@@ -15,6 +12,5 @@ The Economist 英文原版文字版
 
 每一期一般以 PDF 格式的形式呈现，偶尔能弄到EPUB, MOBI格式的资源。音频资源获取困难，暂不支持。
 
-# 更新时间
 
-有时间就更新
+
