@@ -14,7 +14,7 @@ The Economist 英文原版文字版文件来源于俄罗斯最大的社交网站
 
 # 补充
 
-[2022全年版](https://github.com/AkaCoder404/TheEconomist2022)
+值得高兴的是，有很多热心人士在搬运经济学人电子版，这里可以下载[经济学人2022全年电子版](https://github.com/AkaCoder404/TheEconomist2022)
 
 中间缺失的几年懒得补了，向前看^_^
 
