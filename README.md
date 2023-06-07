@@ -12,5 +12,11 @@ The Economist 英文原版文字版文件来源于俄罗斯最大的社交网站
 
 每一期一般以 PDF 格式的形式呈现，偶尔能弄到EPUB, MOBI格式的资源。音频资源获取困难，暂不支持。
 
+# 补充
+
+[2022全年版](https://github.com/AkaCoder404/TheEconomist2022)
+
+中间缺失的几年懒得补了，向前看^_^
+
 
 
